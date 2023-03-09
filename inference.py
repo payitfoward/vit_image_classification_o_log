@@ -7,7 +7,7 @@ from torchvision import transforms
 
 from tqdm.notebook import tqdm
 
-from model_vit import VisionTransformer
+from model import VisionTransformer
 from datasets import image_dataset
 
 class cfg():
